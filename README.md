@@ -146,4 +146,4 @@ Smart Food AI provides general nutrition information for educational purposes on
 
 **Mounish Shanmugam**
 MSc Artificial Intelligence & Machine Learning, University of Birmingham
-[LinkedIn](https://www.linkedin.com/in/mounish-shanmugam-5a4590233) · [GitHub]([https://github.com/<your-username>](https://github.com/mounish-shanmugam24))
+[LinkedIn](https://www.linkedin.com/in/mounish-shanmugam-5a4590233) · [GitHub](https://github.com/mounish-shanmugam24)
